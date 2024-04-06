@@ -1,0 +1,17 @@
+{
+  "name": "node_dk_best_apis",
+  "version": "1.0.0",
+  "description": "Node best apis Node best apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea",
+    "npm"
+  ],
+  "author": "daiduongptit",
+  "dependencies": {
+    "toast": "^0.5.4"
+  }
+}
