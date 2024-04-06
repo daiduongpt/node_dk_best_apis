@@ -12,6 +12,12 @@
   ],
   "author": "daiduongptit",
   "dependencies": {
+    "@feathersjs/feathers": "^5.0.24",
     "toast": "^0.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
   }
 }
