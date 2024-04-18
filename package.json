@@ -11,6 +11,10 @@
     "npm"
   ],
   "author": "daiduongptit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daiduongpt/node_dk_best_apis.git"
+  },
   "dependencies": {
     "@feathersjs/feathers": "^5.0.24",
     "@feathersjs/koa": "^5.0.24",
